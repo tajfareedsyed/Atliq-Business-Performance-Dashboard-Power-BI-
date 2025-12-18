@@ -53,12 +53,11 @@ This project presents an interactive **Power BI dashboard** built to analyze **A
 
 ---
 
-## 📁 Repository Contents
--  – Power BI dashboard file
----
-## Preview of Dasboard
 
-<a href="" /a>
+## 📸 Dashboard Preview
+
+![Dashboard Preview](Preview%20of%20Dashboard/Screenshot%202025-12-10%20at%2010.06.11.png)
+
 
 
 ---
